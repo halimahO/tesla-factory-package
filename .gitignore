@@ -1,0 +1,11 @@
+__pycache__
+.idea
+.pytest_cache
+dist
+tesla/__pycache__
+tests/__pycache__
+
+tesla/tesla_factory_package.egg-info
+tests/test_fabric.cpython-38-pytest-6.2.3.pyc
+setup.py
+pyproject.toml
