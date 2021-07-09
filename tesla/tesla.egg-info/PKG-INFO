@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: tesla-factory-package
+Name: tesla
 Version: 0.0.1
 Summary: A tesla factory package
 Home-page: https://github.com/halimahO/tesla-factory-package
@@ -16,4 +16,5 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # tesla-factory-package
+This is a practice project on software engineering basics. It is about building functionalities for electric cars at the imaginary Tesla car factory. 
 
